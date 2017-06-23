@@ -1,2 +1,2 @@
 # our_project
-nobita
+nobita and shizuka
